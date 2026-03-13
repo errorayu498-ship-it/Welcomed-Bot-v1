@@ -1,0 +1,7 @@
+{
+    "welcome_channel": 123456789012345678,
+    "title": "Welcome {user}",
+    "subtitle": "Member #{membercount}",
+    "background_mode": "banner",
+    "text_color": "white"
+}
